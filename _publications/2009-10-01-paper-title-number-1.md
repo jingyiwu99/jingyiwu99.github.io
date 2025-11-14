@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Beyond Emotion: Unraveling the Limited Role of Sentiment in Extended-Format Communication"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink:
+excerpt: 'This study investigates how emotional expression shapes audience engagement in extended discourse. Drawing on theories of affect and communication, the study integrates lexicon-based and contextualized models to show that emotions—though central to human communication—play a constrained, context-dependent role in shaping the popularity of extended-format communication.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
