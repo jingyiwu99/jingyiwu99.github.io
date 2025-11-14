@@ -22,7 +22,7 @@ How do people communicate and coordinate under ambiguity? What cognitive and com
 
 Grounding Verbs in Intuitive Physics
 ------
-How do humans perceive and categorize actions in the visual world? What physical and geometric primitives—such as causation, force dynamics, and state change—underlie verb meanings and guide the rapid generalization of novel events? How do linguistic theories of verb semantics connect with perceptual systems to bridge language and visual cognition? How can computational models be built to capture these intuitions and to differentiate fine-grained actions, advancing both embodied theories of language and machine understanding of events?
+How do humans perceive and categorize actions in the visual world? What physical and geometric primitives—such as causation, force dynamics, and state change—underlie verb meanings and guide the rapid generalization of novel events? How do linguistic theories of verb semantics connect with perceptual systems to bridge language and visual cognition? How can computational models be built to capture these intuitions and to differentiate fine-grained actions, advancing both embodied theories of language and machine understanding of events? <br>
 
 
 Publications
