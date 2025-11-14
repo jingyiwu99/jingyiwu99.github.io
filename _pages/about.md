@@ -23,3 +23,16 @@ How do people communicate and coordinate under ambiguity? What cognitive and com
 Grounding Verbs in Intuitive Physics
 ------
 How do humans perceive and categorize actions in the visual world? What physical and geometric primitives—such as causation, force dynamics, and state change—underlie verb meanings and guide the rapid generalization of novel events? How do linguistic theories of verb semantics connect with perceptual systems to bridge language and visual cognition? How can computational models be built to capture these intuitions and to differentiate fine-grained actions, advancing both embodied theories of language and machine understanding of events?
+
+
+Publications
+======
+Wu, J., Fu, S., Dale, R., Gao, T., Liang, J. (2025). Beyond Emotion: Unraveling the Limited Role of Sentiment in Extended-Format Communication. Proc. 47th Annual Meeting of the Cognitive Science Society.
+Wu, J., Liang, J. (2025). When or What? Understanding Consumer Engagement on Digital Platforms. arXiv preprint arXiv:2510.10474.
+Wu, J., Zhang, T., Liang, J. (2025). Can Professional Norms Reshape Gendered Discourse? Understanding Linguistic Accommodation in Science and Literature. Manuscript under review.
+Wu, J., Liu, Y., Liang, J. (2025). Visible Voices: Investigating the Consistency of Translator’s style. Manuscript under review.
+
+Papers in Preparation
+------
+Wu, J., Hartshorne, J.K., Gao, T. Grounding Verbs in Intuitive Physics: Few-Shot Categorization of Action Events.
+Wu, J., Gao, T. Computational Modeling of Cooperative Communication with a Physics-Based RSA Framework.
