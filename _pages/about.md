@@ -24,7 +24,7 @@ Language as a Window into Human Mind
 ------
 A long-standing question in cognitive science concerns the relationship between language and thought: does language shape the structure of human mental representations, or does it instead reflect pre-existing conceptual organization in the mind? The latter possibility would arise if combinatorial conceptual representations preexisted language, which emerged as a mechanism for communicating those thoughts. If this is true, we would expect to find parallel patterns across both linguistic and non-linguistic forms of cognition, such as visual perception. My research focuses on event representation in language and vision. I was recently invited to give a talk about my research in Harvard LangCog Seminar ([abstract](https://sites.harvard.edu/langcog/)) .<br>
 
-**Wu, J.**, Xu, E., Bitterman, E.B., Tenenbaum, J.B., Hartshorne, J.K., Gao, T. (2026). Is Language a Window into the Human Mind? The Same Latent Features Guide Categorization in Language and Vision. [[link]](Language_as_window_WuEtAl.,%202026.pdf)<br>
+**Wu, J.**, Xu, E., Bitterman, E.B., Tenenbaum, J.B., Hartshorne, J.K., Gao, T. (2026). Is Language a Window into the Human Mind? The Same Latent Features Guide Categorization in Language and Vision. [[link]]([Language_as_window_WuEtAl.,%202026.pdf](http://academicpages.github.io/files/Language_as_window_WuEtAl., 2026.pdf))<br>
 
-Xu, E., **Wu, J.**, Tang, N., Hartshorne, J.K., Tenenbaum, J.B., Gao, T. (2026). Verb Semantic Reasoning: a Semantics-Guided Approach for Improving Action Understanding in Vision--Language Models. [[link]](verb_semantics_XuEtAl.,2026.pdf)<br>
+Xu, E., **Wu, J.**, Tang, N., Hartshorne, J.K., Tenenbaum, J.B., Gao, T. (2026). Verb Semantic Reasoning: a Semantics-Guided Approach for Improving Action Understanding in Vision--Language Models. [[link]](http://academicpages.github.io/files/verb_semantics_XuEtAl.,2026.pdf)<br>
 
