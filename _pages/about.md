@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in Linguistics at Zhejiang University and a Visiting Scholar in Communication at UCLA. I'm very fortunate to be advised by Prof. [Junying Liang](https://person.zju.edu.cn/en/jyleung#0) and Prof. [Tao Gao](https://comm.ucla.edu/person/tao-gao/). My research interests lie in two main areas. The first line of my research focuses on the factors that shape audience engagement and enhance communication impact, with my PhD dissertation specifically examining the role of narrative structure in public communication. My second line of research focuses on the cognitive foundations of language, exploring whether linguistic structure reflects the organization of human conceptual representations.
+I am a fifth-year Ph.D. candidate in Linguistics at Zhejiang University and a Visiting Scholar in Communication at UCLA. I'm very lucky to be advised by Prof. [Junying Liang](https://person.zju.edu.cn/en/jyleung#0) and Prof. [Tao Gao](https://comm.ucla.edu/person/tao-gao/). My research interests lie in two main areas. The first line of my research focuses on the factors that shape audience engagement and enhance communication impact, with my PhD dissertation specifically examining the role of narrative structure in public communication. My second line of research focuses on the cognitive foundations of language, exploring whether linguistic structure reflects the organization of human conceptual representations.
 
 Research Interests
 ======
@@ -22,7 +22,7 @@ How do people speak in ways that make their communication widely impactful? What
 
 Language as a Window into Human Mind
 ------
-A long-standing question in cognitive science concerns the relationship between language and thought: does language shape the structure of human mental representations, or does it instead reflect pre-existing conceptual organization in the mind? The latter possibility would arise if combinatorial conceptual representations preexisted language, which emerged as a mechanism for communicating those thoughts. If this is true, we would expect to find parallel patterns across both linguistic and non-linguistic forms of cognition, such as visual perception. My research focuses on event representation in language and vision. I was recently invited to give a talk about my research in Harvard LangCog Seminar ([abstract](https://sites.harvard.edu/langcog/)) .<br>
+A long-standing question in cognitive science concerns the relationship between language and thought: does language shape the structure of human mental representations, or does it instead reflect pre-existing conceptual organization in the mind? The latter possibility would arise if combinatorial conceptual representations predate language, with language emerging as a system for communicating those pre-existing thoughts. If this is true, we would expect to find parallel patterns across both linguistic and non-linguistic forms of cognition, such as visual perception. My research focuses on event representation in language and vision. And I was recently invited to give a talk about this research in Harvard LangCog Seminar. Please find the abstract [here](https://sites.harvard.edu/langcog/).<br>
 
 **Wu, J.**, Xu, E., Bitterman, E.B., Tenenbaum, J.B., Hartshorne, J.K., Gao, T. (2026). Is Language a Window into the Human Mind? The Same Latent Features Guide Categorization in Language and Vision. [[link]](http://jingyiwu99.github.io/files/Language_as_window_WuEtAl., 2026.pdf)<br>
 
