@@ -18,7 +18,7 @@ How do people speak in ways that make their communication widely impactful? What
 
 **Wu, J.**, Fu, S., Liang, J. (under review). Balancing novelty and familiarity: nonlinear effects of semantic progression on audience engagement.
 
-**Wu, J.**, Zhang, T., Liang, J. (accepted). Understanding linguistic accommodation in science and literature: professional norms reshape gendered discourse. *Humanities and Social Sciences Communications.*
+**Wu, J.**, Zhang, T., Liang, J. (2026). Understanding linguistic accommodation in science and literature: professional norms reshape gendered discourse. *Humanities and Social Sciences Communications.* [[link]](https://doi.org/10.1057/s41599-026-08231-7)
 
 **Wu, J.**, Fu, S., Dale, R., Gao, T., Liang, J. (2025). Beyond Emotion: Unraveling the Limited Role of Sentiment in Extended-Format Communication. *Proc. 47th Annual Meeting of the Cognitive Science Society.* [[link]](https://escholarship.org/uc/item/9027m2dc)<br>
 
