@@ -16,10 +16,6 @@ Understanding the Potential Factors that Drive Impactful Communication
 ------
 How do people speak in ways that make their communication widely impactful? What aspects of language organization contribute to audience engagement? My PhD dissertation addresses these questions through large-scale computational analyses of TED Talks, examining how topic content, narrative progression, sentiment patterns, and social identity influence the impactfulness of public communication. Beyond textual features, impactful communication is inherently multimodal: visual cues such as gestures and facial expressions, as well as auditory features such as prosody, rhythm, and vocal intensity, may substantially shape how messages are received. Is there any possibility of constructing an integrated multimodal model that combines linguistic, visual, and acoustic features to better understand and even predict the effectiveness of communication? <br>
 
-**Wu, J.**, Fu, S., Liang, J. (under review). Balancing novelty and familiarity: nonlinear effects of semantic progression on audience engagement.
-
-**Wu, J.**, Zhang, T., Liang, J. (2026). Understanding linguistic accommodation in science and literature: professional norms reshape gendered discourse. *Humanities and Social Sciences Communications.* [[link]](https://doi.org/10.1057/s41599-026-08231-7)
-
 **Wu, J.**, Fu, S., Dale, R., Gao, T., Liang, J. (2025). Beyond Emotion: Unraveling the Limited Role of Sentiment in Extended-Format Communication. *Proc. 47th Annual Meeting of the Cognitive Science Society.* [[link]](https://escholarship.org/uc/item/9027m2dc)<br>
 
 **Wu, J.**, Liang, J. (2025). When or What? Understanding Consumer Engagement on Digital Platforms. *ArXiv* [[link]](https://doi.org/10.48550/arXiv.2510.10474)<br>
